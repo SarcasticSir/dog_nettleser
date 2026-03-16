@@ -1,0 +1,10 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/shared-types" },
+    { "path": "packages/game-rules" },
+    { "path": "services/realtime-server" },
+    { "path": "services/db" },
+    { "path": "apps/web" }
+  ]
+}
