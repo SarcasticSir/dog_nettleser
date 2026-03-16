@@ -41,6 +41,7 @@ Agents must treat **player count, team count, turn order, card exchange logic, a
 - There are **16 spaces between each player’s start/entry point and the next player’s start/entry point**.
 - A piece exits start onto the first board space immediately outside the start area.
 - A piece must travel **one full lap** before it is allowed to enter its home lane / bo.
+- The exception to **one full lap** is when the player plays a 4 card and goes backwards to before the starting area.
 - Entry to bo requires **exact movement count**.
 - If a move would overshoot bo, the piece must continue around the board until it can legally enter later, unless repositioned by a Jack swap.
 
